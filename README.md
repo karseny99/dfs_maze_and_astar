@@ -1,4 +1,4 @@
-# dfs_maze_ans_astar
+# dfs_maze_and_astar
 
 ## Wrote with javascript and p5 extension
 Simple launch:
