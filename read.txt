@@ -1,0 +1,6 @@
+A* algorithm
+Wrote with javascript and p5 extension with help of this video
+Simple launch:
+
+python3 -m http.server (in console from this repo)
+type localhost:8000 in your browser (then press F5 to genereate next maze)
